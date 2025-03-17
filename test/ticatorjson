@@ -1,0 +1,36 @@
+{
+  "1411e108-c1ad-486d-a9f7-cb0e856f2687": {
+    "encrypted": false,
+    "hash": "1411e108-c1ad-486d-a9f7-cb0e856f2687",
+    "index": 0,
+    "type": "totp",
+    "secret": "4IKBHWECOV5DUZTH",
+    "issuer": "MEXC",
+    "dataType": "OTPStorage"
+  },
+  "ab6fd355-a7e0-4030-b26a-49ac69aa565f": {
+    "dataType": "EncOTPStorage",
+    "data": "U2FsdGVkX19Xv1dUsJqRJy497kbeokmoQ9gNpJ8bxuZ7CmQzmAFaBTRVZ4OFeXMLxNHwAJmPCoRAhectQhweTXzlUY6io0ZnXFlt2p9scYBV+dj5I3MD0E8jHsvj/tH2Af1JuhTAhMD9NOdPnbLYat/O2r9bRyBhKBzyDLuv3gBili4z/DpP+V9DeMHSKGg9wIVIi91txW3arJgB6AVK/fYoUfr7sW3mULlaRJtcno0GsBLUE2M8s0aEHWyOUP/rJmvPSKxizSqSxpxq1fLN6UbJkHRlRDLsFidz0K3PPyblp8sECYShVCR7HPajpYm2ReuiwEAdOCZ8bi4IGIbvQBSy1zD+2KvKvydEBoXserY=",
+    "keyId": "219147cd-90e4-4a3d-a00b-0a6124b8a4a5",
+    "index": 1
+  },
+  "2844482d-89a4-499a-aefe-662422df81e7": {
+    "dataType": "EncOTPStorage",
+    "data": "U2FsdGVkX1+GnzCAyWA4z9jmrF6BqHtjvNassqC1PjXO6J1Gucq7o4HGWWoPSiEq8rWFwSMr92znVDdg9cH/2gwkfvpcIFEs3sDLbKUwq3jQJbgqOLyUktnIvejAW8+C/ZexJ8owogSGr8ZutL+LsrrOGG+11rK7MG71QX8YH2JA+RctSaf7rvPsEDAbeFKYujXe3sp8XyTwNSyayh8iOV2YysdKx/fFiZte0y0EoeHELQ/xYC3tUEtVt5zaKtqn24sA/T/wPGEGkYiguN+52s7dMJrWNgLR4xFIMV9UPBI3FsqA4dnCfhB4s+N2ySa0xw/EsTDOPPNjnRHTw8+yEw==",
+    "keyId": "219147cd-90e4-4a3d-a00b-0a6124b8a4a5",
+    "index": 2
+  },
+  "bdbcbe3b-bb89-46dd-98c1-4466535829df": {
+    "dataType": "EncOTPStorage",
+    "data": "U2FsdGVkX18a9N+8Ak9JPfqx9t8WZ3STU736sgx0os+KT9jbKximWiBqVrCk5jwbWVGO4WeL3DvU3PE7oAVWNuTm7JK9drm437R5Ni5SzEmC+iBp7Y1zUO5mZez5GqTv3/TlbJwTPjDD57gU7+0/zqYAFnhwD3RP8OFvKjcVUTK86Bq6inSR1K23O/vxV7BRaxJgfEd2WtPJFwsS04rik21sTF19MHjuo2uxwseIvbGHcIjFhJnBh87NHr5428WCXexO05VpmJ/QWpuBPTMz6CI1DI40bNsf+mqOcEhYiEOPv3qCSyNXUKKIQJkVc+Leg0MkuppPfPIxCIPyiPnL2d1dPMfKCDPABjxmsVtgGT8=",
+    "keyId": "219147cd-90e4-4a3d-a00b-0a6124b8a4a5",
+    "index": 3
+  },
+  "219147cd-90e4-4a3d-a00b-0a6124b8a4a5": {
+    "dataType": "Key",
+    "hash": "$argon2id$v=19$m=19456,t=2,p=1$NWQ3ZTNmMTNjNjQ4NTdhNzhiMmE0YWY2Y2VjZTdiMGQ$o+92X+laWNgXzHOEOS4zmVJCR4BWrBXrAJngD8Xi4rA",
+    "id": "219147cd-90e4-4a3d-a00b-0a6124b8a4a5",
+    "salt": "2c9ebf7b2318310aa345cc4d4e099951",
+    "version": 3
+  }
+}
