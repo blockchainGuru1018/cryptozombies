@@ -1,0 +1,42 @@
+{
+  "1411e108-c1ad-486d-a9f7-cb0e856f2687": {
+    "dataType": "EncOTPStorage",
+    "data": "U2FsdGVkX1/qJsmM2sNg/26JAR8WbKz6ahtIF+8YmAU6fwRTQ5WUCKNED9WdX+pkcQJ+jYUIT0OTUfakNOb49xcCMKP4iNelaqOQzU1XaVxEtyiPzZYcaLr7pwpMIJT0xemdQTqBDhQnqlTbJtbeZ/QF50s4HfvxZUuMWGfAdbVDsTe/HMyCV2zkBcCs6IpQc8t0CBeJLjRrXiGIae17WmtwiHJ26nhZhiAP62rezcmkvWeQgIJfEvfnUiHMs+/aPr/p9ybuqlzKVhhOAo++++YePIWvV7NQJd+II0pY0Mg=",
+    "keyId": "219147cd-90e4-4a3d-a00b-0a6124b8a4a5",
+    "index": 0
+  },
+  "fc18f747-6031-4d62-86f0-291d4892e115": {
+    "encrypted": false,
+    "hash": "fc18f747-6031-4d62-86f0-291d4892e115",
+    "index": 0,
+    "type": "totp",
+    "secret": "EWYI4JEEL645ARAGFKTXFBUGQBRMHVHP",
+    "issuer": "HubSpot-Archer",
+    "dataType": "OTPStorage"
+  },
+  "ab6fd355-a7e0-4030-b26a-49ac69aa565f": {
+    "dataType": "EncOTPStorage",
+    "data": "U2FsdGVkX1+VXQi08jftca39trt0krsvwRjKDHAFZ0kP/H9KWLvRJUwhUug8gM6m1TYIJAyFwLE/IQ/q96gZ8nitWeppjo+4QwClFWdl5lucC24IhBMKh8IDuhiRihXd/Jq92kvmXfmAoYWQ+JIsRuUo1uBefKL0X1d+GU+aqEWADvt+nSpQcUza1HRrL0ESyiPt9CJw3Bk42GZlojsqSpynZAkVz3jIRgwj7eHnFp92QIM7ThFYx+Boswrh8h6a2BwntnaisJCIAOUsRUfdOJJk30kWQAiQKDiTiWXwbnwuOi/b5mLy4X3UaLnKI7nfYoL3ho+R+4MxbwvvbDie2rrRC+Nj+qsT7obJAR0NmV0=",
+    "keyId": "219147cd-90e4-4a3d-a00b-0a6124b8a4a5",
+    "index": 1
+  },
+  "2844482d-89a4-499a-aefe-662422df81e7": {
+    "dataType": "EncOTPStorage",
+    "data": "U2FsdGVkX1/tgpjROQrFCOWJdz72KUyDQsVd8tLR4X4nAK7wUcie5ZLxCCxZwP6czXI6AmdDYjPJOG/jkKYzYEwMCIsOU6I0F/HQx7NGsgWJwQIU64rdLmDOkHNA2r7UfhULl/SD3+75ved1QgoJVwi+Q6q1vaj59BHhaab/swhhToQnyirwGURbNtizSXWeDhQkSkD13M1K1SEq6q2gZdmgg9ryQiAHe4LBCtVTcIAsxkTuuYUt4ZrilZUk1ojZRiulDXJnPH1aBMkak+N5SZUYN4bjJFWTzNYCsg+0dRkDMZ8GuOm7YzHpheOA/f/d90cTwEZsRW0JLEaomF2dEQ==",
+    "keyId": "219147cd-90e4-4a3d-a00b-0a6124b8a4a5",
+    "index": 2
+  },
+  "bdbcbe3b-bb89-46dd-98c1-4466535829df": {
+    "dataType": "EncOTPStorage",
+    "data": "U2FsdGVkX1+PCr0HCvsaQ8R4ABHcsSfnTL7io3pOANPlDoPSzugXWOwCLj7vvSLJ+aaqIZXrbYMie3IlY+cW42AHDWjtfRZlsUr73WALlPG3vGJmOH4WWK5c/g6qimcY6A4WoT3HjBs8CkK3UYCl55CxeqCKDmVtILT+IRyq/cQBfkKezFkSLqp3cZ0xHhP6pVKX1Hb9LXzC200KdTJPAjfH9y1Tv3m5wy/uGSJ/2oRcO0zBVE2e9Okmt5PNgcjLKfUImQmcTekwKAdiSq+X1NRr9+a/vTTk/f/oe2NkOnpMlLaSW+TaLYsSfa4PZiEAeJ2OYXnhqYUYxkIEqMN9YFhbXVVYBfAVQ7zCyD2aGJ4=",
+    "keyId": "219147cd-90e4-4a3d-a00b-0a6124b8a4a5",
+    "index": 3
+  },
+  "219147cd-90e4-4a3d-a00b-0a6124b8a4a5": {
+    "dataType": "Key",
+    "hash": "$argon2id$v=19$m=19456,t=2,p=1$NWQ3ZTNmMTNjNjQ4NTdhNzhiMmE0YWY2Y2VjZTdiMGQ$o+92X+laWNgXzHOEOS4zmVJCR4BWrBXrAJngD8Xi4rA",
+    "id": "219147cd-90e4-4a3d-a00b-0a6124b8a4a5",
+    "salt": "2c9ebf7b2318310aa345cc4d4e099951",
+    "version": 3
+  }
+}
